@@ -1,0 +1,6 @@
+# setting.txt
+company=컴퓨터 학원
+ceo=최유정
+email=sample@daum.net
+phone=01098761234
+uploadPath=upload

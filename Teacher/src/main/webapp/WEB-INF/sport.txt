@@ -1,0 +1,3 @@
+# 샵은 주석입니다.
+baseball=com.shopping.sport.BaseballController
+football=com.shopping.sport.FootballController

@@ -1,0 +1,7 @@
+# setting.txt
+company=IT 교육 센터
+ceo=김대표
+email=itcompany@naver.com
+phone=0212349876
+uploadPath=upload
+product_list_column_size=3
