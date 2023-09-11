@@ -16,6 +16,6 @@
   	<script type="text/javascript" src="${pageContext.request.contextPath}/js/jquery-ui.js"></script>
 </head>
 <body>
-
+		<h1>여기는 수정되었습니다.</h1>
 </body>
 </html>
